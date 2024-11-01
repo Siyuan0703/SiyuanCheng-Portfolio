@@ -43,14 +43,14 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 <div style="display: flex; justify-content: space-between;">
 <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/ExplosionAnalysis.gif" alt="Explosion Analysis" height="400" />
 <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/LTW.jpg" alt="LTW" height="400" />
-</div>div>
+</div>
 
 
 
 **Key Contributions**:
 - Designed a prototype of Radar shell to validate plastic laser welding technology and conducted a thorough technical evaluation of the injection mold solution designed by suppliers, provided technical support on quotations for purchasing engineers.
 - Optimized injection molding and LTW parameters, increasing bonding strength by 42%.
-- Provided technical guidance for production lines and conduct root cause analysis when welding failure occurs.
+- Provided technical guidance for production lines and conducted root cause analysis when welding failure occurs.
 
 ---
 
@@ -58,10 +58,15 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 **Role**: Research Engineer at Huawei Technologies  
 **Objectives**: Improved corrosion resistance of Kovar alloy coatings.  
 
-**Key Contributions**:
-- Conducted metallographic and EDS analyses, developing an electroplating technique that improved corrosion resistance by 50%.
 
-[Project Details](https://github.com/YourGitHubUsername/SiyuanCheng-Portfolio/tree/main/Kovar-Alloy-Analysis)
+<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/TXBaseboard.jpg" alt="TX Baseboard" height="400" />
+
+
+
+**Key Contributions**:
+- Designed a metal bracket for bonding the optical machine lens and PCB board with laser transmitter; Chose Kovar alloy for it extremely low CTE to reduce the influence of thermal deformation on the lens position accuracy.
+- Solved the poor corrosion resistance problem of Kovar alloy; Conducted metallographic and EDS analyses to investigate the weak point, developing an new electroplating technique that improved corrosion resistance by 50%.
+
 
 ---
 
