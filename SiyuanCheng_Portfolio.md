@@ -22,8 +22,8 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 **Role**: Structural Design Engineer at Huawei Technologies  
 **Objectives**: Designed a new gen of automotive Radar with higher integration and lower cost.  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/4D_RADAR.gif" alt="4D_RADAR" height="400" width="400"/>
-    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/PrototypeA.jpg" alt="Real" height="400" width="400"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/4D_RADAR.gif" alt="4D_RADAR" height="200" width="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/PrototypeA.jpg" alt="Real" height="200" width="200"/>
 </div>
 
 
@@ -41,8 +41,8 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 **Objectives**: Enhanced bonding strength in new generation Radar shells using laser transmission welding.
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/ExplosionAnalysis.gif" alt="Explosion Analysis" height="400" width="400" />
-<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/LTW.jpg" alt="LTW" height="400" width="400"/>
+<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/ExplosionAnalysis.gif" alt="Explosion Analysis" height="200" width="200" />
+<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/LTW.jpg" alt="LTW" height="200" width="200"/>
 </div>
 
 
@@ -59,7 +59,7 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 **Objectives**: Improved corrosion resistance of Kovar alloy coatings.  
 
 
-<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/TXBaseboard.jpg" alt="TX Baseboard" height="400" width="800"/>
+<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/TXBaseboard.jpg" alt="TX Baseboard" height="200" width="400"/>
 
 
 
@@ -90,9 +90,9 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 - **Tools**: SolidWorks, ANSYS
 - **Outcome**: Achieved an inclination angle of 25° through design optimization.
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/scanningmirror.jpg" alt="scanningmirror" width="300" height="200"/>
-    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/stress.jpg" alt="stress" width="300"  height="200"/>
-    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/deformation.gif" alt="deformation" width="300" height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/scanningmirror.jpg" alt="scanningmirror" width="200" height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/stress.jpg" alt="stress" width="200"  height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/deformation.gif" alt="deformation" width="200" height="200"/>
 </div>
 
 #### Microchannel Heat Sink Design
