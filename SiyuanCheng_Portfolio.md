@@ -1,6 +1,7 @@
 # Siyuan Cheng - Mechanical Engineer Project Portfolio
 
-📍 Shanghai, China | 📧 sc4929@columbia.edu | [LinkedIn](https://www.linkedin.com/in/siyuancheng4929/)
+📍 Shanghai, China | 📧 sc4929@columbia.edu | [LinkedIn](https://www.linkedin.com/in/siyuancheng4929/) | [Resume](https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/Resume_SiyuanCheng_ME.pdf)
+
 
 ## 👋 About Me
 
