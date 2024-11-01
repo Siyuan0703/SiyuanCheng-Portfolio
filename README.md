@@ -113,10 +113,3 @@ Feel free to connect with me via email or LinkedIn!
 - **Email**: sc4929@columbia.edu
 - **LinkedIn**: [linkedin.com/in/siyuancheng4929](https://www.linkedin.com/in/siyuancheng4929/)
 
-- git init
-git add .
-git commit -m "Initial commit for Siyuan Cheng's portfolio"
-git branch -M main
-git remote add origin https://github.com/YourGitHubUsername/SiyuanCheng-Portfolio.git
-git push -u origin main
-
