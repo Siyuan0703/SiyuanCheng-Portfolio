@@ -78,18 +78,32 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 - **Tools**: COMSOL Multiphysics
 - **Outcome**: Developed a practical approach to enhancing flow rate.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/micropump.jpg" alt="micropump" width="300" />
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/pumpdata.jpg" alt="pumpdata" width="300"  height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/backflow.jpg" alt="backflow" width="300" />
+</div>
+
 #### MEMS Scanning Mirror Design
 - **Institution**: Columbia University
 - **Objective**: Designed a MEMS mirror with a wide scanning angle for light manipulation.
 - **Tools**: SolidWorks, ANSYS
 - **Outcome**: Achieved an inclination angle of 25° through design optimization.
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/scanningmirror.jpg" alt="scanningmirror" width="300" height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/stress.jpg" alt="stress" width="300"  height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/deformation.gif" alt="deformation" width="300" height="200"/>
+</div>
 
 #### Microchannel Heat Sink Design
 - **Institution**: University of Shanghai for Science and Technology
 - **Objective**: Designed a heat sink with biomimetic fins for better heat dissipation.
 - **Tools**: Ansys Fluent
-- **Outcome**: Improved coefficient of performance compared to traditional heat sinks.
-
+- **Outcome**: Designed a new bionic fin structure to achieve better heat uniformity and pressure loss than traditional microchannel heat sinks.
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/heatsink.jpg" alt="heatsink" width="600" height="200"/>
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/vector.jpg" alt="streamline vector" width="400"  height="200"/>
+</div>
 ---
 
 ## 📫 Contact Me
