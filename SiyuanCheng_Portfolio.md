@@ -105,7 +105,6 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
     <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/img/heatsink.jpg" alt="heatsink" width="600" height="200"/>
     <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/img/vector.jpg" alt="streamline vector" width="400"  height="200"/>
 </div>
----
 
 ## 📫 Contact Me
 
