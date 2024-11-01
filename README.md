@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I am a Mechanical Engineer with experience in 4D radar system design, structural optimization, and advanced manufacturing processes. Passionate about creating innovative, efficient designs and improving engineering processes through research and technology.
+I am a highly self-motivated mechanical engineer with a strong background in mechanical engineering and product design. With a Master’s degree from Columbia University and hands-on experience at Huawei Technologies, I have developed a diverse simulation, design, and structural optimization skill set. My expertise includes CAD modeling, FEA simulations, and advanced manufacturing. I’m passionate about creating efficient, innovative solutions and always open to new challenges!
 
 ---
 
@@ -20,15 +20,13 @@ I am a Mechanical Engineer with experience in 4D radar system design, structural
 
 ### 1. 4D Automotive Radar System Design
 **Role**: Structural Design Engineer at Huawei Technologies  
-**Objectives**: Designed plastic and metal radar structures with EMC shielding and heat dissipation.  
+**Objectives**: Designed a new gen of automotive Radar with higher integration and lower cost.  
 
 **Key Contributions**:
 - Developed designs for radar parts and assemblies, achieving IP67 protection and reducing costs by 14%.
 - Simplified radome structure, achieving a 300% cost reduction.
 - Conducted structural simulations, improving impact resistance by 50%.
-- Led supply chain quality improvements, reducing assembly time by 20%.
-
-[Project Details](https://github.com/YourGitHubUsername/SiyuanCheng-Portfolio/tree/main/4D-Automotive-Radar)
+- Led supply chain quality improvements, improved product yield from 88% to 95%.
 
 ---
 
