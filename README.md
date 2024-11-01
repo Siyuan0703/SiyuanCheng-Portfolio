@@ -21,24 +21,36 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 ### 1. 4D Automotive Radar System Design
 **Role**: Structural Design Engineer at Huawei Technologies  
 **Objectives**: Designed a new gen of automotive Radar with higher integration and lower cost.  
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/4D_RADAR.gif" alt="4D_RADAR" height="400" />
+    <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/PrototypeA.jpg" alt="Real" height="400" />
+</div>
+
+
 
 **Key Contributions**:
 - Developed designs for radar parts and assemblies, achieving IP67 protection and reducing costs by 14%.
-- Simplified radome structure, achieving a 300% cost reduction.
+- Simplified plastic radome structure, achieving a 300% cost reduction.
 - Conducted structural simulations, improving impact resistance by 50%.
 - Led supply chain quality improvements, improved product yield from 88% to 95%.
-
+- Independently designed radar engineering prototype for calibration in an anechoic chamber.
 ---
 
 ### 2. Plastic Laser Transmission Welding Process Optimization
 **Role**: Lead Designer and Analyst at Huawei Technologies  
-**Objectives**: Enhanced bonding strength in radar shells using laser transmission welding.  
+**Objectives**: Enhanced bonding strength in new generation Radar shells using laser transmission welding.
+
+<div style="display: flex; justify-content: space-between;">
+<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/ExplosionAnalysis.gif" alt="Explosion Analysis" height="400" />
+<img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/LTW.jpg" alt="LTW" height="400" />
+</div>div>
+
+
 
 **Key Contributions**:
-- Designed radar shell prototypes, collaborated with suppliers, and provided purchasing support.
-- Optimized LTW parameters, increasing bonding strength by 42%.
-
-[Project Details](https://github.com/YourGitHubUsername/SiyuanCheng-Portfolio/tree/main/Laser-Welding-Optimization)
+- Designed a prototype of Radar shell to validate plastic laser welding technology and conducted a thorough technical evaluation of the injection mold solution designed by suppliers, provided technical support on quotations for purchasing engineers.
+- Optimized injection molding and LTW parameters, increasing bonding strength by 42%.
+- Provided technical guidance for production lines and conduct root cause analysis when welding failure occurs.
 
 ---
 
