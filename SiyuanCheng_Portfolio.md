@@ -11,8 +11,8 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 
 ## 🔧 Skills
 
-- **Engineering Software**: CREO, SolidWorks, CATIA, ANSA, Abaqus, ANSYS, COMSOL
-- **Programming**: Python (NumPy), MATLAB
+- **Engineering Software**: PRO/E, SolidWorks, CATIA, ANSA, Abaqus, ANSYS, COMSOL
+- **Programming**: Python 3.0, MATLAB
 - **Technical Knowledge**: Product Design, Advanced Manufacturing, Fluid Mechanics, Heat Transfer, Failure Analysis
 
 ---
@@ -20,7 +20,7 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 ## 🛠️ Projects
 
 ### 1. 4D Automotive Radar System Design
-**Role**: Structural Design Engineer at Huawei Technologies  
+**Role**: R&D Engineer at Huawei Technologies  
 **Objectives**: Designed a new gen of automotive Radar with higher integration and lower cost.  
 <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/img/4D_RADAR.gif" alt="4D_RADAR" height="300" width="300"/>
@@ -33,13 +33,13 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 - Developed designs for radar parts and assemblies, achieving IP67 protection and reducing costs by 14%.
 - Simplified plastic radome structure, achieving a 300% cost reduction.
 - Conducted structural simulations, improving impact resistance by 50%.
-- Led supply chain quality improvements, improved product yield from 88% to 95%.
+- Led supply chain quality improvements, improved product yield from 75% to 90%+.
 - Independently designed radar engineering prototype for calibration in an anechoic chamber.
 ---
 
-### 2. Plastic Laser Transmission Welding Process Optimization
+### 2. Plastic Laser Transmission Welding (LTW) Process Research
 **Role**: Lead Designer and Analyst at Huawei Technologies  
-**Objectives**: Enhanced bonding strength in new generation Radar shells using laser transmission welding.
+**Objectives**: Enhanced bonding strength in new-generation Radar shells using laser transmission welding.
 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/img/ExplosionAnalysis.gif" alt="Explosion Analysis" height="300" width="300" />
@@ -49,15 +49,15 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 
 
 **Key Contributions**:
-- Designed a prototype of Radar shell to validate plastic laser welding technology and conducted a thorough technical evaluation of the injection mold solution designed by suppliers, provided technical support on quotations for purchasing engineers.
-- Optimized injection molding and LTW parameters, increasing bonding strength by 42%.
-- Provided technical guidance for production lines and conducted root cause analysis when welding failure occurs.
+- Designed a prototype of the Radar shell to validate plastic laser welding technology.
+- Developed a 3D FEA contact model for laser transmission welding based on volumetric heat sources using ANSYS and conducted simulations and experimental studies on different interface contact conditions.
+- Analyzed simulation and DOE experimental data. Used Minitab to determine optimal plastic injection molding and laser welding parameters, resulting in a 42% improvement in bond strength.
 
 ---
 
-### 3. Corrosion Failure Analysis of Kovar Alloy
+### 3. Optical system design
 **Role**: Research Engineer at Huawei Technologies  
-**Objectives**: Improved corrosion resistance of Kovar alloy coatings.  
+**Objectives**: Design and optimize the optical-mechanical structure.Improved corrosion resistance of Kovar alloy parts.  
 
 
 <img src="https://raw.githubusercontent.com/Siyuan0703/SiyuanCheng-Portfolio/main/img/TXBaseboard.jpg" alt="TX Baseboard" height="300" width="600"/>
@@ -65,8 +65,8 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 
 
 **Key Contributions**:
-- Designed a metal bracket for bonding the optical machine lens and PCB board with laser transmitter; Chose Kovar alloy for it extremely low CTE to reduce the influence of thermal deformation on the lens position accuracy.
-- Solved the poor corrosion resistance problem of Kovar alloy; Conducted metallographic and EDS analyses to investigate the weak point, developing an new electroplating technique that improved corrosion resistance by 50%.
+- Designed metal components for coupling optical lenses and laser emitters, reducing thermal backflow through structural optimization and minimizing thermal deformation impact on optical accuracy using powder metallurgy technology (MIMS).
+- Conducted metallographic and EDS analysis on failed components to investigate the corrosion failure mechanism of MIMS coatings, developing improved electroplating techniques that enhanced corrosion resistance by 50%.
 
 
 ---
