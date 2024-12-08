@@ -31,7 +31,7 @@ I am a highly self-motivated mechanical engineer with a strong background in mec
 
 **Key Contributions**:
 - Developed designs for radar parts and assemblies, achieving IP67 protection and reducing costs by 14%.
-- Simplified plastic radome structure, achieving a 300% cost reduction.
+- Simplified plastic radome structure, achieving a 75% cost reduction.
 - Conducted structural simulations, improving impact resistance by 50%.
 - Led supply chain quality improvements, improved product yield from 75% to 90%+.
 - Independently designed radar engineering prototype for calibration in an anechoic chamber.
